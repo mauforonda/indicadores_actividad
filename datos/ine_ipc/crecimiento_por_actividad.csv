@@ -1,0 +1,361 @@
+fecha,actividad,crecimiento_trimestral
+2018-03-31,Impuestos Netos,0.2539
+2018-03-31,"Agricultura, Ganadería, Silvicultura y Pesca",0.0891
+2018-03-31,Actividad Extractiva,0.173
+2018-03-31,Industrias Manufactureras,0.5787
+2018-03-31,"Suministro de Electricidad, Agua y Recolección de Desechos",0.0453
+2018-03-31,Construcción,-0.3768
+2018-03-31,Comercio,0.3893
+2018-03-31,Transporte y Comunicaciones,0.2131
+2018-03-31,Alojamiento y Servicio de Comidas y Bebidas,0.3022
+2018-03-31,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",0.1171
+2018-03-31,"Administración Pública, Salud y Educación de No Mercado",1.4607
+2018-03-31,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",0.2949
+2018-06-30,Impuestos Netos,0.6699
+2018-06-30,"Agricultura, Ganadería, Silvicultura y Pesca",0.5578
+2018-06-30,Actividad Extractiva,-0.017
+2018-06-30,Industrias Manufactureras,0.285
+2018-06-30,"Suministro de Electricidad, Agua y Recolección de Desechos",0.1001
+2018-06-30,Construcción,0.537
+2018-06-30,Comercio,0.3412
+2018-06-30,Transporte y Comunicaciones,0.4627
+2018-06-30,Alojamiento y Servicio de Comidas y Bebidas,0.3721
+2018-06-30,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",0.7276
+2018-06-30,"Administración Pública, Salud y Educación de No Mercado",-2.2347
+2018-06-30,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",0.1033
+2018-09-30,Impuestos Netos,0.3809
+2018-09-30,"Agricultura, Ganadería, Silvicultura y Pesca",0.0726
+2018-09-30,Actividad Extractiva,-0.0929
+2018-09-30,Industrias Manufactureras,-0.1678
+2018-09-30,"Suministro de Electricidad, Agua y Recolección de Desechos",0.0766
+2018-09-30,Construcción,0.7721
+2018-09-30,Comercio,0.0065
+2018-09-30,Transporte y Comunicaciones,-0.0245
+2018-09-30,Alojamiento y Servicio de Comidas y Bebidas,0.2777
+2018-09-30,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",0.561
+2018-09-30,"Administración Pública, Salud y Educación de No Mercado",-0.5848
+2018-09-30,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",0.283
+2018-12-31,Impuestos Netos,0.3075
+2018-12-31,"Agricultura, Ganadería, Silvicultura y Pesca",0.1688
+2018-12-31,Actividad Extractiva,-0.2913
+2018-12-31,Industrias Manufactureras,0.7218
+2018-12-31,"Suministro de Electricidad, Agua y Recolección de Desechos",0.1171
+2018-12-31,Construcción,0.5366
+2018-12-31,Comercio,0.3451
+2018-12-31,Transporte y Comunicaciones,0.2183
+2018-12-31,Alojamiento y Servicio de Comidas y Bebidas,-0.2566
+2018-12-31,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",0.2944
+2018-12-31,"Administración Pública, Salud y Educación de No Mercado",2.6087
+2018-12-31,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",-0.2572
+2019-03-31,Impuestos Netos,0.2563
+2019-03-31,"Agricultura, Ganadería, Silvicultura y Pesca",0.1849
+2019-03-31,Actividad Extractiva,-0.2963
+2019-03-31,Industrias Manufactureras,0.5762
+2019-03-31,"Suministro de Electricidad, Agua y Recolección de Desechos",0.1701
+2019-03-31,Construcción,1.3135
+2019-03-31,Comercio,0.2115
+2019-03-31,Transporte y Comunicaciones,-0.4243
+2019-03-31,Alojamiento y Servicio de Comidas y Bebidas,0.0638
+2019-03-31,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",0.8441
+2019-03-31,"Administración Pública, Salud y Educación de No Mercado",-1.2458
+2019-03-31,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",0.1898
+2019-06-30,Impuestos Netos,-0.4145
+2019-06-30,"Agricultura, Ganadería, Silvicultura y Pesca",-0.2475
+2019-06-30,Actividad Extractiva,-0.724
+2019-06-30,Industrias Manufactureras,0.3788
+2019-06-30,"Suministro de Electricidad, Agua y Recolección de Desechos",0.1282
+2019-06-30,Construcción,0.3096
+2019-06-30,Comercio,-0.0076
+2019-06-30,Transporte y Comunicaciones,-0.2303
+2019-06-30,Alojamiento y Servicio de Comidas y Bebidas,-0.0886
+2019-06-30,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",0.1423
+2019-06-30,"Administración Pública, Salud y Educación de No Mercado",2.1097
+2019-06-30,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",0.0165
+2019-09-30,Impuestos Netos,0.5594
+2019-09-30,"Agricultura, Ganadería, Silvicultura y Pesca",0.6736
+2019-09-30,Actividad Extractiva,0.0332
+2019-09-30,Industrias Manufactureras,0.6015
+2019-09-30,"Suministro de Electricidad, Agua y Recolección de Desechos",0.1502
+2019-09-30,Construcción,0.1216
+2019-09-30,Comercio,0.5164
+2019-09-30,Transporte y Comunicaciones,0.455
+2019-09-30,Alojamiento y Servicio de Comidas y Bebidas,-0.0302
+2019-09-30,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",0.6884
+2019-09-30,"Administración Pública, Salud y Educación de No Mercado",0.9778
+2019-09-30,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",-0.0727
+2019-12-31,Impuestos Netos,-0.6145
+2019-12-31,"Agricultura, Ganadería, Silvicultura y Pesca",0.2828
+2019-12-31,Actividad Extractiva,0.2242
+2019-12-31,Industrias Manufactureras,-0.4017
+2019-12-31,"Suministro de Electricidad, Agua y Recolección de Desechos",0.0624
+2019-12-31,Construcción,-0.9251
+2019-12-31,Comercio,-0.3428
+2019-12-31,Transporte y Comunicaciones,0.1474
+2019-12-31,Alojamiento y Servicio de Comidas y Bebidas,0.2544
+2019-12-31,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",0.8343
+2019-12-31,"Administración Pública, Salud y Educación de No Mercado",-1.2801
+2019-12-31,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",0.0638
+2020-03-31,Impuestos Netos,0.3632
+2020-03-31,"Agricultura, Ganadería, Silvicultura y Pesca",0.1938
+2020-03-31,Actividad Extractiva,-0.1097
+2020-03-31,Industrias Manufactureras,-0.5173
+2020-03-31,"Suministro de Electricidad, Agua y Recolección de Desechos",0.0662
+2020-03-31,Construcción,-2.0516
+2020-03-31,Comercio,-0.5571
+2020-03-31,Transporte y Comunicaciones,0.7419
+2020-03-31,Alojamiento y Servicio de Comidas y Bebidas,0.6745
+2020-03-31,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",-0.0308
+2020-03-31,"Administración Pública, Salud y Educación de No Mercado",0.7122
+2020-03-31,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",0.8881
+2020-06-30,Impuestos Netos,-2.8881
+2020-06-30,"Agricultura, Ganadería, Silvicultura y Pesca",0.2157
+2020-06-30,Actividad Extractiva,-4.0119
+2020-06-30,Industrias Manufactureras,-3.7096
+2020-06-30,"Suministro de Electricidad, Agua y Recolección de Desechos",-0.2827
+2020-06-30,Construcción,-4.3371
+2020-06-30,Comercio,-2.8759
+2020-06-30,Transporte y Comunicaciones,-3.3701
+2020-06-30,Alojamiento y Servicio de Comidas y Bebidas,-3.4617
+2020-06-30,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",-2.4315
+2020-06-30,"Administración Pública, Salud y Educación de No Mercado",-0.4845
+2020-06-30,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",-2.1472
+2020-09-30,Impuestos Netos,-2.404
+2020-09-30,"Agricultura, Ganadería, Silvicultura y Pesca",0.6382
+2020-09-30,Actividad Extractiva,-2.4847
+2020-09-30,Industrias Manufactureras,-2.0205
+2020-09-30,"Suministro de Electricidad, Agua y Recolección de Desechos",-0.1816
+2020-09-30,Construcción,-3.1469
+2020-09-30,Comercio,-2.0068
+2020-09-30,Transporte y Comunicaciones,-1.9805
+2020-09-30,Alojamiento y Servicio de Comidas y Bebidas,-1.7846
+2020-09-30,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",-0.8467
+2020-09-30,"Administración Pública, Salud y Educación de No Mercado",-0.5849
+2020-09-30,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",-0.7599
+2020-12-31,Impuestos Netos,-0.8906
+2020-12-31,"Agricultura, Ganadería, Silvicultura y Pesca",0.3663
+2020-12-31,Actividad Extractiva,-0.4933
+2020-12-31,Industrias Manufactureras,-0.109
+2020-12-31,"Suministro de Electricidad, Agua y Recolección de Desechos",0.0475
+2020-12-31,Construcción,-0.7778
+2020-12-31,Comercio,-0.4743
+2020-12-31,Transporte y Comunicaciones,-0.4898
+2020-12-31,Alojamiento y Servicio de Comidas y Bebidas,-0.4546
+2020-12-31,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",-0.1222
+2020-12-31,"Administración Pública, Salud y Educación de No Mercado",-0.0731
+2020-12-31,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",0.7411
+2021-03-31,Impuestos Netos,-0.8334
+2021-03-31,"Agricultura, Ganadería, Silvicultura y Pesca",0.6724
+2021-03-31,Actividad Extractiva,0.2161
+2021-03-31,Industrias Manufactureras,-0.6592
+2021-03-31,"Suministro de Electricidad, Agua y Recolección de Desechos",-0.0276
+2021-03-31,Construcción,-0.4892
+2021-03-31,Comercio,-0.1991
+2021-03-31,Transporte y Comunicaciones,-1.0103
+2021-03-31,Alojamiento y Servicio de Comidas y Bebidas,-0.9137
+2021-03-31,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",-0.591
+2021-03-31,"Administración Pública, Salud y Educación de No Mercado",-0.1401
+2021-03-31,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",-0.7211
+2021-06-30,Impuestos Netos,3.6234
+2021-06-30,"Agricultura, Ganadería, Silvicultura y Pesca",1.5216
+2021-06-30,Actividad Extractiva,6.1654
+2021-06-30,Industrias Manufactureras,4.4447
+2021-06-30,"Suministro de Electricidad, Agua y Recolección de Desechos",0.4644
+2021-06-30,Construcción,4.2233
+2021-06-30,Comercio,3.2987
+2021-06-30,Transporte y Comunicaciones,4.0648
+2021-06-30,Alojamiento y Servicio de Comidas y Bebidas,4.3282
+2021-06-30,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",2.7477
+2021-06-30,"Administración Pública, Salud y Educación de No Mercado",1.1233
+2021-06-30,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",2.5297
+2021-09-30,Impuestos Netos,1.0502
+2021-09-30,"Agricultura, Ganadería, Silvicultura y Pesca",-0.6284
+2021-09-30,Actividad Extractiva,2.8458
+2021-09-30,Industrias Manufactureras,2.0474
+2021-09-30,"Suministro de Electricidad, Agua y Recolección de Desechos",0.2953
+2021-09-30,Construcción,1.7893
+2021-09-30,Comercio,1.619
+2021-09-30,Transporte y Comunicaciones,1.4486
+2021-09-30,Alojamiento y Servicio de Comidas y Bebidas,1.241
+2021-09-30,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",1.0032
+2021-09-30,"Administración Pública, Salud y Educación de No Mercado",0.3687
+2021-09-30,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",-0.1038
+2021-12-31,Impuestos Netos,0.028
+2021-12-31,"Agricultura, Ganadería, Silvicultura y Pesca",-0.1102
+2021-12-31,Actividad Extractiva,0.7341
+2021-12-31,Industrias Manufactureras,0.4472
+2021-12-31,"Suministro de Electricidad, Agua y Recolección de Desechos",0.1025
+2021-12-31,Construcción,0.0744
+2021-12-31,Comercio,0.7496
+2021-12-31,Transporte y Comunicaciones,-0.0531
+2021-12-31,Alojamiento y Servicio de Comidas y Bebidas,-0.1614
+2021-12-31,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",-0.3887
+2021-12-31,"Administración Pública, Salud y Educación de No Mercado",0.5198
+2021-12-31,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",-1.0904
+2022-03-31,Impuestos Netos,0.1953
+2022-03-31,"Agricultura, Ganadería, Silvicultura y Pesca",0.3181
+2022-03-31,Actividad Extractiva,0.898
+2022-03-31,Industrias Manufactureras,1.4169
+2022-03-31,"Suministro de Electricidad, Agua y Recolección de Desechos",0.1714
+2022-03-31,Construcción,0.6264
+2022-03-31,Comercio,1.2336
+2022-03-31,Transporte y Comunicaciones,0.4578
+2022-03-31,Alojamiento y Servicio de Comidas y Bebidas,0.1766
+2022-03-31,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",1.5046
+2022-03-31,"Administración Pública, Salud y Educación de No Mercado",0.2006
+2022-03-31,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",-0.9091
+2022-06-30,Impuestos Netos,0.417
+2022-06-30,"Agricultura, Ganadería, Silvicultura y Pesca",0.2331
+2022-06-30,Actividad Extractiva,-0.1407
+2022-06-30,Industrias Manufactureras,1.155
+2022-06-30,"Suministro de Electricidad, Agua y Recolección de Desechos",0.0954
+2022-06-30,Construcción,-0.0382
+2022-06-30,Comercio,0.8439
+2022-06-30,Transporte y Comunicaciones,0.5818
+2022-06-30,Alojamiento y Servicio de Comidas y Bebidas,0.8331
+2022-06-30,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",0.7271
+2022-06-30,"Administración Pública, Salud y Educación de No Mercado",0.4395
+2022-06-30,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",0.2554
+2022-09-30,Impuestos Netos,-0.0647
+2022-09-30,"Agricultura, Ganadería, Silvicultura y Pesca",-0.1182
+2022-09-30,Actividad Extractiva,-0.6577
+2022-09-30,Industrias Manufactureras,0.3237
+2022-09-30,"Suministro de Electricidad, Agua y Recolección de Desechos",0.0876
+2022-09-30,Construcción,-0.3177
+2022-09-30,Comercio,0.3062
+2022-09-30,Transporte y Comunicaciones,0.4359
+2022-09-30,Alojamiento y Servicio de Comidas y Bebidas,1.2678
+2022-09-30,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",0.252
+2022-09-30,"Administración Pública, Salud y Educación de No Mercado",0.792
+2022-09-30,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",0.7465
+2022-12-31,Impuestos Netos,-0.0038
+2022-12-31,"Agricultura, Ganadería, Silvicultura y Pesca",0.1834
+2022-12-31,Actividad Extractiva,-0.3737
+2022-12-31,Industrias Manufactureras,-0.3861
+2022-12-31,"Suministro de Electricidad, Agua y Recolección de Desechos",0.0212
+2022-12-31,Construcción,-0.1737
+2022-12-31,Comercio,-0.2449
+2022-12-31,Transporte y Comunicaciones,-0.2245
+2022-12-31,Alojamiento y Servicio de Comidas y Bebidas,0.7564
+2022-12-31,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",0.2378
+2022-12-31,"Administración Pública, Salud y Educación de No Mercado",0.0704
+2022-12-31,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",0.6627
+2023-03-31,Impuestos Netos,-0.1246
+2023-03-31,"Agricultura, Ganadería, Silvicultura y Pesca",0.1498
+2023-03-31,Actividad Extractiva,-0.2164
+2023-03-31,Industrias Manufactureras,-0.1524
+2023-03-31,"Suministro de Electricidad, Agua y Recolección de Desechos",0.0358
+2023-03-31,Construcción,0.1777
+2023-03-31,Comercio,-0.6093
+2023-03-31,Transporte y Comunicaciones,-0.4877
+2023-03-31,Alojamiento y Servicio de Comidas y Bebidas,0.4159
+2023-03-31,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",0.6066
+2023-03-31,"Administración Pública, Salud y Educación de No Mercado",0.3866
+2023-03-31,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",0.5788
+2023-06-30,Impuestos Netos,-0.4878
+2023-06-30,"Agricultura, Ganadería, Silvicultura y Pesca",0.6215
+2023-06-30,Actividad Extractiva,-0.2336
+2023-06-30,Industrias Manufactureras,-0.3283
+2023-06-30,"Suministro de Electricidad, Agua y Recolección de Desechos",0.0592
+2023-06-30,Construcción,0.2398
+2023-06-30,Comercio,-0.3183
+2023-06-30,Transporte y Comunicaciones,0.0828
+2023-06-30,Alojamiento y Servicio de Comidas y Bebidas,0.3122
+2023-06-30,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",0.2388
+2023-06-30,"Administración Pública, Salud y Educación de No Mercado",0.5777
+2023-06-30,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",0.1505
+2023-09-30,Impuestos Netos,0.5035
+2023-09-30,"Agricultura, Ganadería, Silvicultura y Pesca",1.0119
+2023-09-30,Actividad Extractiva,-0.9335
+2023-09-30,Industrias Manufactureras,0.7834
+2023-09-30,"Suministro de Electricidad, Agua y Recolección de Desechos",0.0687
+2023-09-30,Construcción,0.2101
+2023-09-30,Comercio,0.298
+2023-09-30,Transporte y Comunicaciones,0.2306
+2023-09-30,Alojamiento y Servicio de Comidas y Bebidas,-0.0672
+2023-09-30,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",0.4628
+2023-09-30,"Administración Pública, Salud y Educación de No Mercado",0.3414
+2023-09-30,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",0.2382
+2023-12-31,Impuestos Netos,0.5248
+2023-12-31,"Agricultura, Ganadería, Silvicultura y Pesca",0.5267
+2023-12-31,Actividad Extractiva,-1.0964
+2023-12-31,Industrias Manufactureras,1.6839
+2023-12-31,"Suministro de Electricidad, Agua y Recolección de Desechos",0.1544
+2023-12-31,Construcción,0.1816
+2023-12-31,Comercio,0.9721
+2023-12-31,Transporte y Comunicaciones,0.6854
+2023-12-31,Alojamiento y Servicio de Comidas y Bebidas,0.2186
+2023-12-31,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",0.7702
+2023-12-31,"Administración Pública, Salud y Educación de No Mercado",0.6932
+2023-12-31,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",-0.117
+2024-03-31,Impuestos Netos,0.0664
+2024-03-31,"Agricultura, Ganadería, Silvicultura y Pesca",0.022
+2024-03-31,Actividad Extractiva,-1.965
+2024-03-31,Industrias Manufactureras,0.2859
+2024-03-31,"Suministro de Electricidad, Agua y Recolección de Desechos",0.1247
+2024-03-31,Construcción,0.1973
+2024-03-31,Comercio,0.0057
+2024-03-31,Transporte y Comunicaciones,-0.0617
+2024-03-31,Alojamiento y Servicio de Comidas y Bebidas,0.2434
+2024-03-31,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",0.1043
+2024-03-31,"Administración Pública, Salud y Educación de No Mercado",0.5281
+2024-03-31,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",0.1846
+2024-06-30,Impuestos Netos,0.2828
+2024-06-30,"Agricultura, Ganadería, Silvicultura y Pesca",-0.7547
+2024-06-30,Actividad Extractiva,-0.7886
+2024-06-30,Industrias Manufactureras,0.9462
+2024-06-30,"Suministro de Electricidad, Agua y Recolección de Desechos",0.0645
+2024-06-30,Construcción,-0.2215
+2024-06-30,Comercio,0.134
+2024-06-30,Transporte y Comunicaciones,0.1919
+2024-06-30,Alojamiento y Servicio de Comidas y Bebidas,0.1482
+2024-06-30,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",0.1688
+2024-06-30,"Administración Pública, Salud y Educación de No Mercado",0.4852
+2024-06-30,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",0.019
+2024-09-30,Impuestos Netos,-1.1372
+2024-09-30,"Agricultura, Ganadería, Silvicultura y Pesca",-0.0619
+2024-09-30,Actividad Extractiva,-0.8158
+2024-09-30,Industrias Manufactureras,0.3152
+2024-09-30,"Suministro de Electricidad, Agua y Recolección de Desechos",0.0056
+2024-09-30,Construcción,-0.1139
+2024-09-30,Comercio,-0.3438
+2024-09-30,Transporte y Comunicaciones,-0.0475
+2024-09-30,Alojamiento y Servicio de Comidas y Bebidas,0.072
+2024-09-30,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",0.1278
+2024-09-30,"Administración Pública, Salud y Educación de No Mercado",0.4302
+2024-09-30,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",0.1205
+2024-12-31,Impuestos Netos,-0.8586
+2024-12-31,"Agricultura, Ganadería, Silvicultura y Pesca",-0.612
+2024-12-31,Actividad Extractiva,-0.3999
+2024-12-31,Industrias Manufactureras,-0.9892
+2024-12-31,"Suministro de Electricidad, Agua y Recolección de Desechos",-0.0168
+2024-12-31,Construcción,0.0493
+2024-12-31,Comercio,-0.4325
+2024-12-31,Transporte y Comunicaciones,-0.0846
+2024-12-31,Alojamiento y Servicio de Comidas y Bebidas,0.0205
+2024-12-31,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",-0.0906
+2024-12-31,"Administración Pública, Salud y Educación de No Mercado",0.0539
+2024-12-31,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",-0.0032
+2025-03-31,Impuestos Netos,-0.6595
+2025-03-31,"Agricultura, Ganadería, Silvicultura y Pesca",0.7161
+2025-03-31,Actividad Extractiva,-1.1183
+2025-03-31,Industrias Manufactureras,-0.1812
+2025-03-31,"Suministro de Electricidad, Agua y Recolección de Desechos",-0.0534
+2025-03-31,Construcción,-0.2485
+2025-03-31,Comercio,-0.1687
+2025-03-31,Transporte y Comunicaciones,0.0493
+2025-03-31,Alojamiento y Servicio de Comidas y Bebidas,0.0782
+2025-03-31,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",-0.5548
+2025-03-31,"Administración Pública, Salud y Educación de No Mercado",0.1763
+2025-03-31,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",-0.009
+2025-06-30,Impuestos Netos,-0.7161
+2025-06-30,"Agricultura, Ganadería, Silvicultura y Pesca",0.0058
+2025-06-30,Actividad Extractiva,-1.6223
+2025-06-30,Industrias Manufactureras,0.3698
+2025-06-30,"Suministro de Electricidad, Agua y Recolección de Desechos",-0.044
+2025-06-30,Construcción,0.2622
+2025-06-30,Comercio,-0.6668
+2025-06-30,Transporte y Comunicaciones,-0.3214
+2025-06-30,Alojamiento y Servicio de Comidas y Bebidas,0.1555
+2025-06-30,"Actividades Financieras, Seguros, Inmobiliarias y Profesionales",0.053
+2025-06-30,"Administración Pública, Salud y Educación de No Mercado",-0.3239
+2025-06-30,"Actividades Comunales, Sociales, Personales y Servicios Domésticos",0.0562

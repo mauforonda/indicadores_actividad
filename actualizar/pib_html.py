@@ -1,31 +1,24 @@
-#!/usr/bin/env python3
+import datetime as dt
+import json
+import re
 
+import pandas as pd
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
-import re
-import json
-import datetime as dt
-from supabase import create_client
-import os
-from time import sleep
-
-SB_URL = os.environ["SUPABASE_URL"]
-SB_KEY = os.environ["SUPABASE_SERVICE_ROLE_KEY"]
 
 INICIO = "2018-01-01"  # En qué fecha inicia la serie
+URL_GRAFICA = "https://www.ine.gob.bo/referencia2017/graf_trim.html"
 
 
-def listar_trimestres():
+def listar_trimestres(inicio=INICIO):
     today = dt.datetime.now().date()
-    trimestres = pd.date_range(INICIO, today, freq="QE")
+    trimestres = pd.date_range(inicio, today, freq="QE")
     return trimestres
 
 
-def descargar_datos():
-    print("Descargando datos ...")
-    url = "https://www.ine.gob.bo/referencia2017/graf_trim.html"
+def descargar_datos(url=URL_GRAFICA):
     r = requests.get(url)
+    r.raise_for_status()
     html = BeautifulSoup(r.text, "html.parser")
     script = str(
         [str(s) for s in html.select("script") if "fullData" in str(s)][0]
@@ -33,30 +26,22 @@ def descargar_datos():
     return script
 
 
-def extract_object(script, varname):
+def _extract_object(script, varname):
     pattern = rf"(?:const|let|var)\s+{re.escape(varname)}\s*=\s*(\{{.*?\}});"
     match = re.search(pattern, script, re.DOTALL)
     return json.loads(re.sub(r"(\w+):", r'"\1":', match.group(1)).replace("'", '"'))
 
 
-def crecimiento_nacional(script):
-    print("Extrayendo la serie de crecimiento nacional ...")
-    # Extraer datos
-    df = pd.DataFrame(extract_object(script, "fullData"))
-
-    # Fechas para trimestres
+def crecimiento_nacional(script, trimestres):
+    df = pd.DataFrame(_extract_object(script, "fullData"))
     df["fecha"] = trimestres[: df.shape[0]]
-
-    # Tipos y nombres de columnas
     df = df[["fecha", "values"]]
     df["values"] = df["values"].astype(float)
     df = df.rename(columns={"values": "crecimiento_trimestral"})
-
     return df
 
 
-def crecimiento_actividades(script):
-    print("Extrayendo la serie de crecimiento por actividad ...")
+def crecimiento_actividades(script, trimestres):
     nombres_actividades = {
         "Impuestos Netos": "Impuestos Netos",
         "Agropecuaria": "Agricultura, Ganadería, Silvicultura y Pesca",
@@ -72,45 +57,22 @@ def crecimiento_actividades(script):
         "Otros Servicios": "Actividades Comunales, Sociales, Personales y Servicios Domésticos",
     }
 
-    # extraer datos
-    df = pd.DataFrame(extract_object(str(script), "contributionsActivity"))
-
-    # arreglar nombres de actividades
+    df = pd.DataFrame(_extract_object(str(script), "contributionsActivity"))
     df.columns = [c.encode("latin-1").decode("utf-8") for c in df.columns]
-
-    # Fechas para trimestres
     df.index = trimestres[: df.shape[0]]
-
-    # Forma de la tabla
     df = df.stack().reset_index()
     df.columns = ["fecha", "actividad", "crecimiento_trimestral"]
     df.crecimiento_trimestral = df.crecimiento_trimestral.astype(float)
-
-    # Expandir nombres de actividades según la nomenclatura oficial
     df.actividad = df.actividad.map(nombres_actividades)
-
     return df
 
 
-def guardar_supabase(sb, df, tabla):
-    print("Guardando ...")
-    chunk_size = 5000
-    sleep_s = 0.2
-
-    n = len(df)
-    df.fecha = df.fecha.dt.strftime("%Y-%m-%d")
-    for i in range(0, n, chunk_size):
-        print(f"{tabla}: {n if i + chunk_size > n else i + chunk_size} filas")
-        chunk = df.iloc[i : i + chunk_size]
-        sb.table(tabla).insert(chunk.to_dict(orient="records")).execute()
-        sleep(sleep_s)
-
-
-trimestres = listar_trimestres()
-script = descargar_datos()
-nacional = crecimiento_nacional(script)
-actividades = crecimiento_actividades(script)
-
-sb = create_client(SB_URL, SB_KEY)
-guardar_supabase(sb, nacional, "ine_pib_crecimiento_trimestral_nacional")
-guardar_supabase(sb, actividades, "ine_pib_crecimiento_trimestral_actividades")
+def actualizar_pib_graficos():
+    trimestres = listar_trimestres()
+    script = descargar_datos()
+    nacional = crecimiento_nacional(script, trimestres)
+    actividades = crecimiento_actividades(script, trimestres)
+    return {
+        "crecimiento_nacional": nacional,
+        "crecimiento_por_actividad": actividades,
+    }

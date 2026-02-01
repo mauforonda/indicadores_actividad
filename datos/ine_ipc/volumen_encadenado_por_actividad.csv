@@ -1,0 +1,477 @@
+tipo,categoria,fecha,valor
+agregados,Producto interno bruto (a precios de mercado),2017-03-31,72958.84930777401
+agregados,Producto interno bruto (a precios de mercado),2017-06-30,81311.21230936729
+agregados,Producto interno bruto (a precios de mercado),2017-09-30,80956.67680305714
+agregados,Producto interno bruto (a precios de mercado),2017-12-31,82131.86918733784
+agregados,Producto interno bruto (a precios de mercado),2018-03-31,75541.8970417448
+agregados,Producto interno bruto (a precios de mercado),2018-06-30,82860.20470095192
+agregados,Producto interno bruto (a precios de mercado),2018-09-30,82219.9647341741
+agregados,Producto interno bruto (a precios de mercado),2018-12-31,85838.65506189918
+agregados,Producto interno bruto (a precios de mercado),2019-03-31,76934.90868819023
+agregados,Producto interno bruto (a precios de mercado),2019-06-30,83997.69079628977
+agregados,Producto interno bruto (a precios de mercado),2019-09-30,86063.0865061855
+agregados,Producto interno bruto (a precios de mercado),2019-12-31,84383.88796700317
+agregados,Producto interno bruto (a precios de mercado),2020-03-31,77222.150985153
+agregados,Producto interno bruto (a precios de mercado),2020-06-30,58979.42733167903
+agregados,Producto interno bruto (a precios de mercado),2020-09-30,70947.92859077419
+agregados,Producto interno bruto (a precios de mercado),2020-12-31,82080.46781170212
+agregados,Producto interno bruto (a precios de mercado),2021-03-31,73595.6056720929
+agregados,Producto interno bruto (a precios de mercado),2021-06-30,81707.1899463183
+agregados,Producto interno bruto (a precios de mercado),2021-09-30,80154.43691713392
+agregados,Producto interno bruto (a precios de mercado),2021-12-31,82779.62234366166
+agregados,Producto interno bruto (a precios de mercado),2022-03-31,78224.9534423207
+agregados,Producto interno bruto (a precios de mercado),2022-06-30,86121.39147514878
+agregados,Producto interno bruto (a precios de mercado),2022-09-30,82601.95269037175
+agregados,Producto interno bruto (a precios de mercado),2022-12-31,83214.45918244259
+agregados,Producto interno bruto (a precios de mercado),2023-03-31,78820.16641132419
+agregados,Producto interno bruto (a precios de mercado),2023-06-30,86908.92288235703
+agregados,Producto interno bruto (a precios de mercado),2023-09-30,85202.1519685525
+agregados,Producto interno bruto (a precios de mercado),2023-12-31,87539.37390441989
+agregados,Producto interno bruto (a precios de mercado),2024-03-31,78611.89201251457
+agregados,Producto interno bruto (a precios de mercado),2024-06-30,87496.23414497986
+agregados,Producto interno bruto (a precios de mercado),2024-09-30,83967.69501365327
+agregados,Producto interno bruto (a precios de mercado),2024-12-31,84594.79429884179
+agregados,Producto interno bruto (a precios de mercado),2025-03-31,77060.5327041405
+agregados,Producto interno bruto (a precios de mercado),2025-06-30,85053.36537540793
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2017-03-31,7835.856883117685
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2017-06-30,7870.192109149359
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2017-09-30,8773.811840523284
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2017-12-31,9247.759043031543
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2018-03-31,8021.103787201576
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2018-06-30,8414.859447371851
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2018-09-30,9082.176240446666
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2018-12-31,9500.332193867209
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2019-03-31,8224.888308755384
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2019-06-30,7997.1943008979315
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2019-09-30,9607.785427161143
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2019-12-31,8943.811540326637
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2020-03-31,8586.286425122804
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2020-06-30,4921.789943479563
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2020-09-30,7142.696715789123
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2020-12-31,8033.433649933288
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2021-03-31,7801.961653583234
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2021-06-30,7599.606661057393
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2021-09-30,8091.01562444714
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2021-12-31,8058.930714310198
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2022-03-31,7987.185711709043
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2022-06-30,8031.31058529749
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2022-09-30,8025.652312141429
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2022-12-31,8054.322903429597
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2023-03-31,7909.94704857586
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2023-06-30,7337.332120719909
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2023-09-30,8650.495730111683
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2023-12-31,8704.883367610302
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2024-03-31,7948.7960248945255
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2024-06-30,7773.913839164371
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2024-09-30,7294.828418893864
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2024-12-31,7660.515476452988
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2025-03-31,7248.787399104576
+impuestos,"Derechos/importaciones, ivand, it y otros imp. indirectos",2025-06-30,6888.978765212843
+agregados,Valor agregado bruto,2017-03-31,65122.99242465632
+agregados,Valor agregado bruto,2017-06-30,73441.02020021791
+agregados,Valor agregado bruto,2017-09-30,72182.86496253386
+agregados,Valor agregado bruto,2017-12-31,72884.1101443063
+agregados,Valor agregado bruto,2018-03-31,67520.79325454321
+agregados,Valor agregado bruto,2018-06-30,74445.34525358008
+agregados,Valor agregado bruto,2018-09-30,73137.78849372742
+agregados,Valor agregado bruto,2018-12-31,76338.32286803197
+agregados,Valor agregado bruto,2019-03-31,68707.46152262055
+agregados,Valor agregado bruto,2019-06-30,75906.88795912103
+agregados,Valor agregado bruto,2019-09-30,76490.05157374215
+agregados,Valor agregado bruto,2019-12-31,75430.11505122767
+agregados,Valor agregado bruto,2020-03-31,68716.67402664771
+agregados,Valor agregado bruto,2020-06-30,53789.21007165155
+agregados,Valor agregado bruto,2020-09-30,63728.94865915294
+agregados,Valor agregado bruto,2020-12-31,73912.36299178719
+agregados,Valor agregado bruto,2021-03-31,65808.13795522704
+agregados,Valor agregado bruto,2021-06-30,73878.95672526672
+agregados,Valor agregado bruto,2021-09-30,71985.61703129558
+agregados,Valor agregado bruto,2021-12-31,74571.90063566333
+agregados,Valor agregado bruto,2022-03-31,70183.6125902688
+agregados,Valor agregado bruto,2022-06-30,77852.16190032905
+agregados,Valor agregado bruto,2022-09-30,74423.56194417359
+agregados,Valor agregado bruto,2022-12-31,74999.05029774616
+agregados,Valor agregado bruto,2023-03-31,70854.45257394749
+agregados,Valor agregado bruto,2023-06-30,79012.0306375023
+agregados,Valor agregado bruto,2023-09-30,76527.38442668528
+agregados,Valor agregado bruto,2023-12-31,78743.74529416629
+agregados,Valor agregado bruto,2024-03-31,70599.92004376756
+agregados,Valor agregado bruto,2024-06-30,79348.66737909724
+agregados,Valor agregado bruto,2024-09-30,76267.48236110782
+agregados,Valor agregado bruto,2024-12-31,76613.82740095162
+agregados,Valor agregado bruto,2025-03-31,69600.96494942285
+agregados,Valor agregado bruto,2025-06-30,77589.49762919497
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2017-03-31,5256.609226017705
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2017-06-30,8682.455323825738
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2017-09-30,5611.1939323708
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2017-12-31,4813.797278828608
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2018-03-31,5321.62539573094
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2018-06-30,9135.986012163485
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2018-09-30,5669.996210069421
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2018-12-31,4952.420365022686
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2019-03-31,5450.66717665748
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2019-06-30,9010.776909434118
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2019-09-30,6220.944804527909
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2019-12-31,5192.496124906059
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2020-03-31,5607.577665817877
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2020-06-30,9176.687343915552
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2020-09-30,6786.753463369335
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2020-12-31,5519.77465153536
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2021-03-31,6134.921579234156
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2021-06-30,10110.806196284435
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2021-09-30,6329.550474018912
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2021-12-31,5419.280797622937
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2022-03-31,6377.9310181778865
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2022-06-30,10221.051077630837
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2022-09-30,6254.688156361572
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2022-12-31,5621.823465777102
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2023-03-31,6495.590236342717
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2023-06-30,10746.871855525553
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2023-09-30,7089.395331000871
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2023-12-31,6062.32330632654
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2024-03-31,6530.718979463275
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2024-06-30,10021.356027441243
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2024-09-30,7056.237193467694
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2024-12-31,5602.439198708519
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2025-03-31,7078.971077176372
+actividad económica,"Agricultura, ganaderia, silvicultura y pesca",2025-06-30,10086.833206071746
+actividad económica,Actividad extractiva,2017-03-31,7310.2022567795975
+actividad económica,Actividad extractiva,2017-06-30,7810.645441144767
+actividad económica,Actividad extractiva,2017-09-30,8282.805032815219
+actividad económica,Actividad extractiva,2017-12-31,8063.589212565441
+actividad económica,Actividad extractiva,2018-03-31,7436.434490965841
+actividad económica,Actividad extractiva,2018-06-30,7796.823600227051
+actividad económica,Actividad extractiva,2018-09-30,8207.597244736586
+actividad económica,Actividad extractiva,2018-12-31,7824.357950886404
+actividad económica,Actividad extractiva,2019-03-31,7214.535950919098
+actividad económica,Actividad extractiva,2019-06-30,7260.923427557579
+actividad económica,Actividad extractiva,2019-09-30,8203.648490962181
+actividad económica,Actividad extractiva,2019-12-31,8043.224751527643
+actividad económica,Actividad extractiva,2020-03-31,7137.36389574746
+actividad económica,Actividad extractiva,2020-06-30,4236.138328793091
+actividad económica,Actividad extractiva,2020-09-30,6276.001739635084
+actividad económica,Actividad extractiva,2020-12-31,7665.428338414727
+actividad económica,Actividad extractiva,2021-03-31,7342.502388440526
+actividad económica,Actividad extractiva,2021-06-30,7752.427956383948
+actividad económica,Actividad extractiva,2021-09-30,8288.750020754174
+actividad económica,Actividad extractiva,2021-12-31,8314.14608570577
+actividad económica,Actividad extractiva,2022-03-31,7909.295921827696
+actividad económica,Actividad extractiva,2022-06-30,7705.362829159749
+actividad económica,Actividad extractiva,2022-09-30,7794.366656096909
+actividad económica,Actividad extractiva,2022-12-31,8038.79894711426
+actividad económica,Actividad extractiva,2023-03-31,7722.8055848056365
+actividad económica,Actividad extractiva,2023-06-30,7620.022182405868
+actividad económica,Actividad extractiva,2023-09-30,7227.486758256139
+actividad económica,Actividad extractiva,2023-12-31,7341.971915491279
+actividad económica,Actividad extractiva,2024-03-31,6513.908189352018
+actividad económica,Actividad extractiva,2024-06-30,7034.722509411408
+actividad económica,Actividad extractiva,2024-09-30,6603.25292911943
+actividad económica,Actividad extractiva,2024-12-31,6996.8166874375975
+actividad económica,Actividad extractiva,2025-03-31,5831.014626127648
+actividad económica,Actividad extractiva,2025-06-30,5959.302158454406
+actividad económica,Industrias manufactureras,2017-03-31,8333.008721578606
+actividad económica,Industrias manufactureras,2017-06-30,9647.059056979799
+actividad económica,Industrias manufactureras,2017-09-30,9906.963585889327
+actividad económica,Industrias manufactureras,2017-12-31,8826.564073462636
+actividad económica,Industrias manufactureras,2018-03-31,8755.191366682246
+actividad económica,Industrias manufactureras,2018-06-30,9878.79705959187
+actividad económica,Industrias manufactureras,2018-09-30,9771.14642225636
+actividad económica,Industrias manufactureras,2018-12-31,9419.357936770599
+actividad económica,Industrias manufactureras,2019-03-31,9206.271479870646
+actividad económica,Industrias manufactureras,2019-06-30,10214.105780178837
+actividad económica,Industrias manufactureras,2019-09-30,10292.454079930696
+actividad económica,Industrias manufactureras,2019-12-31,9056.220514376602
+actividad económica,Industrias manufactureras,2020-03-31,8792.965535327023
+actividad económica,Industrias manufactureras,2020-06-30,6972.205029094464
+actividad económica,Industrias manufactureras,2020-09-30,8483.341986876621
+actividad económica,Industrias manufactureras,2020-12-31,8956.655231666697
+actividad económica,Industrias manufactureras,2021-03-31,8280.545581927583
+actividad económica,Industrias manufactureras,2021-06-30,9615.971322205041
+actividad económica,Industrias manufactureras,2021-09-30,9941.71733605927
+actividad económica,Industrias manufactureras,2021-12-31,9341.237277279077
+actividad económica,Industrias manufactureras,2022-03-31,9306.109719584474
+actividad económica,Industrias manufactureras,2022-06-30,10530.312612128344
+actividad económica,Industrias manufactureras,2022-09-30,10171.567881309475
+actividad económica,Industrias manufactureras,2022-12-31,9043.447387835333
+actividad económica,Industrias manufactureras,2023-03-31,9190.730716113741
+actividad económica,Industrias manufactureras,2023-06-30,10255.107050054492
+actividad económica,Industrias manufactureras,2023-09-30,10793.343562220445
+actividad económica,Industrias manufactureras,2023-12-31,10401.185997897534
+actividad económica,Industrias manufactureras,2024-03-31,9405.362544694672
+actividad económica,Industrias manufactureras,2024-06-30,11080.132332121166
+actividad económica,Industrias manufactureras,2024-09-30,11094.570817645525
+actividad económica,Industrias manufactureras,2024-12-31,9517.081795704898
+actividad económica,Industrias manufactureras,2025-03-31,9289.747548065698
+actividad económica,Industrias manufactureras,2025-06-30,11359.560248897666
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2017-03-31,1268.4341851653523
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2017-06-30,1247.5676275161222
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2017-09-30,1272.790156804236
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2017-12-31,1336.9768363891833
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2018-03-31,1301.4546563058298
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2018-06-30,1328.994140784468
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2018-09-30,1334.832656479793
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2018-12-31,1433.1137258115455
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2019-03-31,1427.0264376577943
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2019-06-30,1434.1838460291476
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2019-09-30,1456.6936131456375
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2019-12-31,1485.2577823553247
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2020-03-31,1475.3142312556224
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2020-06-30,1204.401572259334
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2020-09-30,1305.8133629638019
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2020-12-31,1524.0665486924433
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2021-03-31,1454.7749698217187
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2021-06-30,1466.9573901805004
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2021-09-30,1507.6269570550076
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2021-12-31,1605.2792051854135
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2022-03-31,1587.184850434826
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2022-06-30,1541.386935348649
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2022-09-30,1578.5410610177564
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2022-12-31,1625.360911012003
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2023-03-31,1616.359973154209
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2023-06-30,1593.122721290955
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2023-09-30,1636.720526418435
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2023-12-31,1757.3354837008374
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2024-03-31,1711.026563997631
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2024-06-30,1652.18536110059
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2024-09-30,1642.3595225587565
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2024-12-31,1741.0310802830054
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2025-03-31,1673.0184284796853
+actividad económica,"Suministro de electricidad, agua y recolección de desechos sólidos",2025-06-30,1607.7548385095452
+actividad económica,Construcción,2017-03-31,5206.428601406755
+actividad económica,Construcción,2017-06-30,5085.8133765551875
+actividad económica,Construcción,2017-09-30,5952.27378566916
+actividad económica,Construcción,2017-12-31,6242.37682883512
+actividad económica,Construcción,2018-03-31,4931.484675373358
+actividad económica,Construcción,2018-06-30,5522.470771986348
+actividad económica,Construcción,2018-09-30,6577.324590255904
+actividad económica,Construcción,2018-12-31,6683.0872459872
+actividad económica,Construcción,2019-03-31,5937.900403485354
+actividad económica,Construcción,2019-06-30,5771.238768226745
+actividad económica,Construcción,2019-09-30,6700.155047507765
+actividad económica,Construcción,2019-12-31,5866.601119885703
+actividad económica,Construcción,2020-03-31,4312.118373477238
+actividad económica,Construcción,2020-06-30,2021.998441882055
+actividad económica,Construcción,2020-09-30,3910.9322874525315
+actividad económica,Construcción,2020-12-31,5191.871489826052
+actividad económica,Construcción,2021-03-31,3920.947109003935
+actividad económica,Construcción,2021-06-30,4602.854704611595
+actividad económica,Construcción,2021-09-30,5234.361954369528
+actividad económica,Construcción,2021-12-31,5264.807357606343
+actividad económica,Construcción,2022-03-31,4401.164239980398
+actividad económica,Construcción,2022-06-30,4549.462448138094
+actividad económica,Construcción,2022-09-30,4981.053144866
+actividad económica,Construcción,2022-12-31,5126.218713159112
+actividad económica,Construcción,2023-03-31,4555.876542317645
+actividad económica,Construcción,2023-06-30,4777.205843533302
+actividad económica,Construcción,2023-09-30,5177.208048826335
+actividad económica,Construcción,2023-12-31,5298.20263355885
+actividad económica,Construcción,2024-03-31,4724.608516559148
+actividad económica,Construcción,2024-06-30,4585.995400462604
+actividad económica,Construcción,2024-09-30,5064.714142288802
+actividad económica,Construcción,2024-12-31,5336.086734284272
+actividad económica,Construcción,2025-03-31,4517.598773427602
+actividad económica,Construcción,2025-06-30,4835.463538729145
+actividad económica,Comercio,2017-03-31,5880.045906902187
+actividad económica,Comercio,2017-06-30,7320.131134281206
+actividad económica,Comercio,2017-09-30,6766.193179751634
+actividad económica,Comercio,2017-12-31,6260.429196315964
+actividad económica,Comercio,2018-03-31,6164.048967966706
+actividad económica,Comercio,2018-06-30,7597.564487476224
+actividad económica,Comercio,2018-09-30,6771.483166561741
+actividad económica,Comercio,2018-12-31,6543.898582936348
+actividad económica,Comercio,2019-03-31,6324.267704746546
+actividad económica,Comercio,2019-06-30,7597.0047865741535
+actividad económica,Comercio,2019-09-30,7199.070777089498
+actividad económica,Comercio,2019-12-31,6256.738986846627
+actividad económica,Comercio,2020-03-31,5899.955680066904
+actividad económica,Comercio,2020-06-30,5191.445595545752
+actividad económica,Comercio,2020-09-30,5485.519119113379
+actividad económica,Comercio,2020-12-31,5871.817903394733
+actividad económica,Comercio,2021-03-31,5750.14021858329
+actividad económica,Comercio,2021-06-30,7092.909460426176
+actividad económica,Comercio,2021-09-30,6612.260011763052
+actividad económica,Comercio,2021-12-31,6480.542073960198
+actividad económica,Comercio,2022-03-31,6658.073734438475
+actividad económica,Comercio,2022-06-30,7799.485935513868
+actividad económica,Comercio,2022-09-30,6861.682233074129
+actividad económica,Comercio,2022-12-31,6269.02221231843
+actividad económica,Comercio,2023-03-31,6182.9557097488805
+actividad económica,Comercio,2023-06-30,7518.603620441732
+actividad económica,Comercio,2023-09-30,7106.690364149543
+actividad económica,Comercio,2023-12-31,7082.123538563243
+actividad económica,Comercio,2024-03-31,6192.760602774467
+actividad económica,Comercio,2024-06-30,7626.04419294925
+actividad económica,Comercio,2024-09-30,6819.313884687935
+actividad económica,Comercio,2024-12-31,6714.894469674013
+actividad económica,Comercio,2025-03-31,6050.222040511898
+actividad económica,Comercio,2025-06-30,7053.2400940185
+actividad económica,Transporte y comunicaciones,2017-03-31,5467.984172030262
+actividad económica,Transporte y comunicaciones,2017-06-30,5323.483062595282
+actividad económica,Transporte y comunicaciones,2017-09-30,5712.323080671859
+actividad económica,Transporte y comunicaciones,2017-12-31,5480.155362683379
+actividad económica,Transporte y comunicaciones,2018-03-31,5623.484990452364
+actividad económica,Transporte y comunicaciones,2018-06-30,5699.720504013449
+actividad económica,Transporte y comunicaciones,2018-09-30,5692.464834559525
+actividad económica,Transporte y comunicaciones,2018-12-31,5659.4660632860105
+actividad económica,Transporte y comunicaciones,2019-03-31,5304.661624071256
+actividad económica,Transporte y comunicaciones,2019-06-30,5501.489403652376
+actividad económica,Transporte y comunicaciones,2019-09-30,6077.2596419258
+actividad económica,Transporte y comunicaciones,2019-12-31,5788.23628629192
+actividad económica,Transporte y comunicaciones,2020-03-31,5898.000363094288
+actividad económica,Transporte y comunicaciones,2020-06-30,2558.588110900918
+actividad económica,Transporte y comunicaciones,2020-09-30,4308.141617895794
+actividad económica,Transporte y comunicaciones,2020-12-31,5358.992230862511
+actividad económica,Transporte y comunicaciones,2021-03-31,5086.72071613782
+actividad económica,Transporte y comunicaciones,2021-06-30,5044.946699397253
+actividad económica,Transporte y comunicaciones,2021-09-30,5372.981591598401
+actividad económica,Transporte y comunicaciones,2021-12-31,5313.149018818397
+actividad económica,Transporte y comunicaciones,2022-03-31,5464.308891466672
+actividad económica,Transporte y comunicaciones,2022-06-30,5546.111016697452
+actividad económica,Transporte y comunicaciones,2022-09-30,5757.496814811073
+actividad económica,Transporte y comunicaciones,2022-12-31,5107.13094174567
+actividad económica,Transporte y comunicaciones,2023-03-31,5046.360973603482
+actividad económica,Transporte y comunicaciones,2023-06-30,5620.480464030689
+actividad económica,Transporte y comunicaciones,2023-09-30,5981.17458021019
+actividad económica,Transporte y comunicaciones,2023-12-31,5732.496064204375
+actividad económica,Transporte y comunicaciones,2024-03-31,4998.135279403426
+actividad económica,Transporte y comunicaciones,2024-06-30,5805.802830203959
+actividad económica,Transporte y comunicaciones,2024-09-30,5927.178443514183
+actividad económica,Transporte y comunicaciones,2024-12-31,5653.414815986519
+actividad económica,Transporte y comunicaciones,2025-03-31,5048.841086584786
+actividad económica,Transporte y comunicaciones,2025-06-30,5513.097592065032
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2017-03-31,3230.563167132381
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2017-06-30,3284.4454666764186
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2017-09-30,3525.556814408128
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2017-12-31,3732.463304063097
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2018-03-31,3451.0212759967826
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2018-06-30,3586.989825140922
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2018-09-30,3750.3383061144505
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2018-12-31,3521.7111656474153
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2019-03-31,3488.1403890889487
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2019-06-30,3520.6187497821215
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2019-09-30,3718.346538384825
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2019-12-31,3746.8896749634214
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2020-03-31,3946.870745041649
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2020-06-30,922.8389960401784
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2020-09-30,2344.3923224606647
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2020-12-31,3400.3355348420373
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2021-03-31,3275.1575920735527
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2021-06-30,3123.5388992403578
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2021-09-30,3089.4912591274306
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2021-12-31,3259.4594853083354
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2022-03-31,3400.734120552789
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2022-06-30,3700.776888417058
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2022-09-30,3955.6247977595654
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2022-12-31,3793.9116373708594
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2023-03-31,3685.678963059788
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2023-06-30,3933.427176235557
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2023-09-30,3915.146548079374
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2023-12-31,3957.5119133171524
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2024-03-31,3857.6345921146717
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2024-06-30,4048.343444738907
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2024-09-30,3970.117262141841
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2024-12-31,3973.264549987715
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2025-03-31,3922.440981369937
+actividad económica,Actividades de alojamiento y  servicio de comidas y bebidas,2025-06-30,4171.402466988662
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2017-03-31,11144.194883668362
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2017-06-30,11269.753438800924
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2017-09-30,11858.800016465895
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2017-12-31,12503.819875586469
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2018-03-31,11229.639548045332
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2018-06-30,11861.37676765571
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2018-09-30,12312.976761846237
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2018-12-31,12745.651941518414
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2019-03-31,11874.716369144084
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2019-06-30,11976.830262374222
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2019-09-30,12886.639049236968
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2019-12-31,13467.927932343351
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2020-03-31,11845.84752766607
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2020-06-30,9984.906143596243
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2020-09-30,12173.023926520644
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2020-12-31,13349.063552157535
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2021-03-31,11381.224640911973
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2021-06-30,11604.142096910624
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2021-09-30,12889.21850417375
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2021-12-31,13029.963725511958
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2022-03-31,12509.959322719118
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2022-06-30,12188.57662260119
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2022-09-30,13107.064731478935
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2022-12-31,13236.994608276369
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2023-03-31,12985.7441785048
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2023-06-30,12405.284925467526
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2023-09-30,13490.363749488763
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2023-12-31,13881.226743423487
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2024-03-31,13060.884162482787
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2024-06-30,12563.459769559298
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2024-09-30,13597.091263898597
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2024-12-31,13799.5961733378
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2025-03-31,12630.901374920062
+actividad económica,"Actividades financieras y de seguros, inmobiliarias y profesionales",2025-06-30,12565.588297267044
+actividad económica,"Administracion publica, salud y educación de no mercado",2017-03-31,8661.153331174983
+actividad económica,"Administracion publica, salud y educación de no mercado",2017-06-30,10475.190227624993
+actividad económica,"Administracion publica, salud y educación de no mercado",2017-09-30,9682.178118298125
+actividad económica,"Administracion publica, salud y educación de no mercado",2017-12-31,11652.681263139737
+actividad económica,"Administracion publica, salud y educación de no mercado",2018-03-31,9726.875463493046
+actividad económica,"Administracion publica, salud y educación de no mercado",2018-06-30,8658.166119708405
+actividad económica,"Administracion publica, salud y educación de no mercado",2018-09-30,9208.719958292973
+actividad económica,"Administracion publica, salud y educación de no mercado",2018-12-31,13795.2795386367
+actividad económica,"Administracion publica, salud y educación de no mercado",2019-03-31,8841.60175613569
+actividad económica,"Administracion publica, salud y educación de no mercado",2019-06-30,10413.249997189347
+actividad económica,"Administracion publica, salud y educación de no mercado",2019-09-30,10041.661238107965
+actividad económica,"Administracion publica, salud y educación de no mercado",2019-12-31,12503.22988144379
+actividad económica,"Administracion publica, salud y educación de no mercado",2020-03-31,9350.41210435903
+actividad económica,"Administracion publica, salud y educación de no mercado",2020-06-30,10034.267553991822
+actividad económica,"Administracion publica, salud y educación de no mercado",2020-09-30,9572.08023666796
+actividad económica,"Administracion publica, salud y educación de no mercado",2020-12-31,12448.25475922703
+actividad económica,"Administracion publica, salud y educación de no mercado",2021-03-31,9309.483039405251
+actividad económica,"Administracion publica, salud y educación de no mercado",2021-06-30,10577.766925913566
+actividad económica,"Administracion publica, salud y educación de no mercado",2021-09-30,9826.847492056982
+actividad económica,"Administracion publica, salud y educación de no mercado",2021-12-31,12809.120299006294
+actividad económica,"Administracion publica, salud y educación de no mercado",2022-03-31,9423.33950507004
+actividad económica,"Administracion publica, salud y educación de no mercado",2022-06-30,10900.1333236471
+actividad económica,"Administracion publica, salud y educación de no mercado",2022-09-30,10382.980232390477
+actividad económica,"Administracion publica, salud y educación de no mercado",2022-12-31,12948.931655311935
+actividad económica,"Administracion publica, salud y educación de no mercado",2023-03-31,9694.111148523727
+actividad económica,"Administracion publica, salud y educación de no mercado",2023-06-30,11369.1872053491
+actividad económica,"Administracion publica, salud y educación de no mercado",2023-09-30,10642.769101184947
+actividad económica,"Administracion publica, salud y educación de no mercado",2023-12-31,13550.58794484314
+actividad económica,"Administracion publica, salud y educación de no mercado",2024-03-31,10101.388274590108
+actividad económica,"Administracion publica, salud y educación de no mercado",2024-06-30,11774.298569911154
+actividad económica,"Administracion publica, salud y educación de no mercado",2024-09-30,11001.509963027567
+actividad económica,"Administracion publica, salud y educación de no mercado",2024-12-31,13572.642144920008
+actividad económica,"Administracion publica, salud y educación de no mercado",2025-03-31,10202.747683924401
+actividad económica,"Administracion publica, salud y educación de no mercado",2025-06-30,11475.04698890406
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2017-03-31,3364.367972800138
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2017-06-30,3294.476044217476
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2017-09-30,3611.787259389455
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2017-12-31,3971.256912436639
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2018-03-31,3579.532423530749
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2018-06-30,3378.455964832136
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2018-09-30,3840.9083425544277
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2018-12-31,3759.9783515286194
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2019-03-31,3722.742886696864
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2019-06-30,3392.29939889034
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2019-09-30,3781.077956342861
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2019-12-31,3816.4359682042104
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2020-03-31,4369.663618271802
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2020-06-30,1667.370035592185
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2020-09-30,3152.63211838831
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2020-12-31,4416.253416694646
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2021-03-31,3828.1280702020404
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2021-06-30,3095.866564290083
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2021-09-30,3088.371140007367
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2021-12-31,3562.1707450189265
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2022-03-31,3200.9999312366986
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2022-06-30,3289.8010331009555
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2022-09-30,3651.9427699917455
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2022-12-31,4081.982559925628
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2023-03-31,3634.3374076449286
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2023-06-30,3407.3203239806435
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2023-09-30,3843.1855856777443
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2023-12-31,3996.799383570592
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2024-03-31,3775.655592683344
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2024-06-30,3421.8179162558654
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2024-09-30,3942.802059392621
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2024-12-31,3994.6647674415744
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2025-03-31,3771.1738151695886
+actividad económica,"Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",2025-06-30,3464.0141661594585
