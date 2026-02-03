@@ -88,11 +88,17 @@ def actualizar_pib_excel():
             "url": "https://www.ine.gob.bo/referencia2017/CUADROS/pagina_web/T_01.05.02.xlsx",
         },
     ]
-    data = {}
+    data = []
 
     for excel in excels:
         df = parse_table(excel["url"])
         df = clean_table(df)
-        data[excel["nombre"]] = df
+        data.append(
+            {
+                "name": excel["nombre"],
+                "data": df,
+                "keys": ["tipo", "categoria", "fecha"],
+            }
+        )
 
     return data

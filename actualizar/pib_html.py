@@ -72,7 +72,15 @@ def actualizar_pib_graficos():
     script = descargar_datos()
     nacional = crecimiento_nacional(script, trimestres)
     actividades = crecimiento_actividades(script, trimestres)
-    return {
-        "crecimiento_nacional": nacional,
-        "crecimiento_por_actividad": actividades,
-    }
+    return [
+        {
+            "name": "crecimiento_trimestral_nacional",
+            "data": nacional,
+            "keys": ["fecha"],
+        },
+        {
+            "name": "crecimiento_trimestral_actividades",
+            "data": actividades,
+            "keys": ["fecha", "actividad"],
+        },
+    ]

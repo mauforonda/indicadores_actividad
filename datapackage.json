@@ -1,0 +1,249 @@
+{
+  "name": "ine_pib",
+  "title": "Producto Interno Bruto de Bolivia (INE)",
+  "version": "1.0.0",
+  "sources": [
+    {
+      "title": "Instituto Nacional de Estadística de Bolivia"
+    }
+  ],
+  "resources": [
+    {
+      "name": "crecimiento_timestral_nacional",
+      "title": "Crecimiento trimestral del PIB nacional",
+      "description": "Serie trimestral del crecimiento del PIB nacional.",
+      "type": "table",
+      "path": "datos/ine_pib/crecimiento_timestral_nacional.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Fecha del trimestre."
+          },
+          {
+            "name": "crecimiento_trimestral",
+            "type": "float",
+            "description": "Crecimiento trimestral del PIB nacional (porcentaje)."
+          }
+        ]
+      }
+    },
+    {
+      "name": "crecimiento_trimestral_actividades",
+      "title": "Crecimiento trimestral del PIB por actividad",
+      "description": "Serie trimestral del crecimiento del PIB por actividad económica.",
+      "type": "table",
+      "path": "datos/ine_pib/crecimiento_trimestral_actividades.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Fecha del trimestre."
+          },
+          {
+            "name": "actividad",
+            "type": "string",
+            "description": "Actividad económica.",
+            "categories": [
+              "Actividad Extractiva",
+              "Actividades Comunales, Sociales, Personales y Servicios Domésticos",
+              "Actividades Financieras, Seguros, Inmobiliarias y Profesionales",
+              "Administración Pública, Salud y Educación de No Mercado",
+              "Agricultura, Ganadería, Silvicultura y Pesca",
+              "Alojamiento y Servicio de Comidas y Bebidas",
+              "Comercio",
+              "Construcción",
+              "Impuestos Netos",
+              "Industrias Manufactureras",
+              "Suministro de Electricidad, Agua y Recolección de Desechos",
+              "Transporte y Comunicaciones"
+            ]
+          },
+          {
+            "name": "crecimiento_trimestral",
+            "type": "float",
+            "description": "Crecimiento trimestral del PIB por actividad (porcentaje)."
+          }
+        ]
+      }
+    },
+    {
+      "name": "volumen_encadenado_por_actividad",
+      "title": "Volumen encadenado del PIB por actividad",
+      "description": "Medidas de volumen encadenadas del Producto Interno Bruto por grupos de actividad económica según trimestre",
+      "type": "table",
+      "path": "datos/ine_pib/volumen_encadenado_por_actividad.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "tipo",
+            "type": "string",
+            "description": "Tipo de categoría",
+            "categories": [
+              "actividad económica",
+              "agregados",
+              "impuestos"
+            ]
+          },
+          {
+            "name": "categoria",
+            "type": "string",
+            "description": "Categoría",
+            "categories": [
+              "Actividad extractiva",
+              "Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",
+              "Actividades de alojamiento y  servicio de comidas y bebidas",
+              "Actividades financieras y de seguros, inmobiliarias y profesionales",
+              "Administracion publica, salud y educación de no mercado",
+              "Agricultura, ganaderia, silvicultura y pesca",
+              "Comercio",
+              "Construcción",
+              "Derechos/importaciones, ivand, it y otros imp. indirectos",
+              "Industrias manufactureras",
+              "Producto interno bruto (a precios de mercado)",
+              "Suministro de electricidad, agua y recolección de desechos sólidos",
+              "Transporte y comunicaciones",
+              "Valor agregado bruto"
+            ]
+          },
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Fecha del trimestre"
+          },
+          {
+            "name": "valor",
+            "type": "float",
+            "description": "Valor del volumen encadenado (millones de bolivianos)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "volumen_encadenado_por_actividad_variacion",
+      "title": "Variación del volumen encadenado del PIB por actividad",
+      "description": "Variación de las medidas de volumen encadenadas del Producto Interno Bruto por grupos de actividad económica según trimestre",
+      "type": "table",
+      "path": "datos/ine_pib/volumen_encadenado_por_actividad_variacion.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "tipo",
+            "type": "string",
+            "description": "Tipo de categoría",
+            "categories": [
+              "actividad económica",
+              "agregados",
+              "impuestos"
+            ]
+          },
+          {
+            "name": "categoria",
+            "type": "string",
+            "description": "Categoría",
+            "categories": [
+              "Actividad extractiva",
+              "Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",
+              "Actividades de alojamiento y servicio de comidas y bebidas",
+              "Actividades financieras y de seguros, inmobiliarias y profesionales",
+              "Administracion publica, salud y educación de no mercado",
+              "Agricultura, ganaderia, silvicultura y pesca",
+              "Comercio",
+              "Construcción",
+              "Derechos/importaciones, ivand, it y otros imp. indirectos",
+              "Industrias manufactureras",
+              "Producto interno bruto (a precios de mercado)",
+              "Suministro de electricidad, agua y recolección de desechos sólidos",
+              "Transporte y comunicaciones",
+              "Valor agregado bruto"
+            ]
+          },
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Fecha del trimestre."
+          },
+          {
+            "name": "valor",
+            "type": "float",
+            "description": "Variación del volumen encadenado (porcentaje)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "volumen_encadenado_por_actividad_variacion_a_12_meses",
+      "title": "Variación a 12 meses del volumen encadenado del PIB por actividad",
+      "description": "Variación a doce meses de las medidas de volumen encadenadas del Producto Interno Bruto por actividad económica",
+      "type": "table",
+      "path": "datos/ine_pib/volumen_encadenado_por_actividad_variacion_a_12_meses.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "tipo",
+            "type": "string",
+            "description": "Tipo de categoría",
+            "categories": [
+              "actividad económica",
+              "agregados",
+              "impuestos"
+            ]
+          },
+          {
+            "name": "categoria",
+            "type": "string",
+            "description": "Categoría",
+            "categories": [
+              "Actividad extractiva",
+              "Actividades comunales sociales, sociales, personales, doméstico, educación y salud de mercado",
+              "Actividades de alojamiento y servicio de comidas y bebidas",
+              "Actividades financieras y de seguros, inmobiliarias y profesionales",
+              "Administracion publica, salud y educación de no mercado",
+              "Agricultura, ganaderia, silvicultura y pesca",
+              "Comercio",
+              "Construcción",
+              "Derechos/importaciones, ivand, it y otros imp. indirectos",
+              "Industrias manufactureras",
+              "Producto interno bruto (a precios de mercado)",
+              "Suministro de electricidad, agua y recolección de desechos sólidos",
+              "Transporte y comunicaciones",
+              "Valor agregado bruto"
+            ]
+          },
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Fecha del trimestre."
+          },
+          {
+            "name": "valor",
+            "type": "float",
+            "description": "Variación a 12 meses del volumen encadenado (porcentaje)"
+          }
+        ]
+      }
+    }
+  ]
+}
