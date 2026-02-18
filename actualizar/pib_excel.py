@@ -1,7 +1,9 @@
 #!/usr/bin/env ptyhon3
 
 import pandas as pd
-
+import requests
+from bs4 import BeautifulSoup
+import unicodedata
 
 def parse_table(fn, index_cols=["categoria"]):
     def drop_footer_rows(raw, min_non_nan=2):
@@ -73,25 +75,45 @@ def clean_table(df):
     return df
 
 
+def get_listado():
+    url = "https://www.ine.gob.bo/referencia2017/pib_trimestral.html"
+    response = requests.get(url)
+    response.raise_for_status()
+    html = BeautifulSoup(response.content, "html.parser")
+    listado = html.select("a")
+    return listado
+
+
+def get_link(target, listado):
+    def norm(s: str) -> str:
+        return unicodedata.normalize("NFC", s).casefold()
+
+    for link in listado:
+        if norm(target) in norm(link.get_text(" ", strip=True)):
+            return link["href"]
+
+
 def actualizar_pib_excel():
     excels = [
         {
             "nombre": "volumen_encadenado_por_actividad",
-            "url": "https://www.ine.gob.bo/referencia2017/CUADROS/pagina_web/T_01.03.xlsx",
+            "texto": "MEDIDAS DE VOLUMEN ENCADENADAS DEL PRODUCTO INTERNO BRUTO POR GRUPOS DE ACTIVIDAD ECONÓMICA SEGÚN TRIMESTRE",
         },
         {
             "nombre": "volumen_encadenado_por_actividad_variacion",
-            "url": "https://www.ine.gob.bo/referencia2017/CUADROS/pagina_web/T_01.05.xlsx",
+            "texto": "VARIACIÓN DE LAS MEDIDAS DE VOLUMEN ENCADENADAS DEL PRODUCTO INTERNO BRUTO POR GRUPOS DE ACTIVIDAD ECONÓMICA SEGÚN TRIMESTRE",
         },
-        {
-            "nombre": "volumen_encadenado_por_actividad_variacion_a_12_meses",
-            "url": "https://www.ine.gob.bo/referencia2017/CUADROS/pagina_web/T_01.05.02.xlsx",
-        },
+        # {
+        #     "nombre": "volumen_encadenado_por_actividad_variacion_a_12_meses",
+        #     "url": "https://www.ine.gob.bo/referencia2017/CUADROS/pagina_web/T_01.05.02.xlsx",
+        # },
     ]
     data = []
+    listado = get_listado()
 
     for excel in excels:
-        df = parse_table(excel["url"])
+        link = get_link(excel["texto"], listado)
+        df = parse_table(link)
         df = clean_table(df)
         data.append(
             {
